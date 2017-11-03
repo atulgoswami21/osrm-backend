@@ -1,3 +1,5 @@
+#include "extractor/travel_mode.hpp"
+
 #include "engine/guidance/assemble_geometry.hpp"
 #include "engine/guidance/assemble_leg.hpp"
 #include "engine/guidance/assemble_overview.hpp"
