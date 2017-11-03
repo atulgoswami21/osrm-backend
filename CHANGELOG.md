@@ -1,5 +1,10 @@
 # UNRELEASED
 
+# 5.13.1
+  - Changes from 5.13.0:
+    - Profile:
+      - Remove dependency on turn types and turn modifier in the process_turn function in the `car.lua` profile
+
 # 5.13.0
   - Changes from 5.12:
     - Profile:
